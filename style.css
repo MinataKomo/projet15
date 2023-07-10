@@ -1,0 +1,15 @@
+/* HEADER */
+
+header{
+    background-color: rgb(36, 34, 34);
+    height: 50px;
+}
+header nav{
+    display: flex;
+}
+header nav a{
+    font-size: 30px;
+    color: white;
+    text-decoration: solid;
+    margin-left: 20px;
+}
