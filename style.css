@@ -330,7 +330,8 @@ footer{
     }
     .span{
         /* background-color: a; */
-        width: 80%;
+        width: 100%;
+        /* background-color: aqua; */
     }
     .content{
         width: 100%;
@@ -376,7 +377,7 @@ footer{
     .rigth{
         flex-direction: column;
         margin: 0%;
-        width: 10%;
+        width: 100%;
         
     }
     .p3{
